@@ -1,0 +1,41 @@
+ul.rig {
+	list-style: none;
+	font-size: 0px;
+	margin-left: -2.5%;
+	
+	li {
+		display: inline-block;
+		padding: 10px;
+		background: none;
+		border: 1px solid #ddd;
+		font-size: 16px;
+		font-size: 1rem;
+		vertical-align: top;
+		text-align: center;
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		width: 30.84%;
+		
+		img {
+			max-width: 100%;
+			height: auto;
+			margin: 0 0 10px;
+		}
+		
+		p {
+			font-style: italic;
+			text-align: center;
+		}
+	}
+}
+
+@media (max-width: 313px) {
+	ul.rig {
+		margin-left: 0;
+	}
+	ul.rig li {
+		width: 100% !important;
+		margin: 0 0 20px;
+	}
+}

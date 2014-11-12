@@ -1,0 +1,43 @@
+#can_embed_form_inner {
+	
+	h2 {
+		display: none;
+	}
+	
+	h3 {
+		display: none;
+	}
+	
+	h4 {
+		display: none;
+	}
+	
+	form {
+		margin-bottom: 10px;
+	}
+	
+}
+
+#action_info {
+	display: none;
+}
+
+#d_sharing {
+
+	ul {
+		display: none;
+	}
+
+}
+
+#can_embed_form input[type="submit"] {
+	background-color: $the-pink !important;
+	font-family: 'league-gothic';
+	font-size: 20px !important;
+	font-weight: 400 !important;
+	text-transform: uppercase;
+	
+	&:hover {
+		background-color: darken($the-pink, 25%) !important;
+	}
+}

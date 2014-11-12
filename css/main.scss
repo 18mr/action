@@ -3,26 +3,33 @@
 ---
 @charset "utf-8";
 
-
+@font-face {
+  font-family: league-gothic;
+  src: url("../static/fonts/leaguegothic-regular-webfont.woff");
+}
 
 // Our variables
+$header-font-family: league-gothic;
+$header-font-size: 16px;
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   12px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #222;
+$background-image: url("../static/images/bg.png");
+$brand-color:      #ea2485;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
+$the-pink: #ea2485;
+$the-green:       #8bc63e;
+$the-blue:        #2b99c1;
+$the-yellow:      #ebdd14;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -30,7 +37,7 @@ $on-laptop:        800px;
 
 
 // Using media queries with like this:
-// @include media-query($on-palm) {
+// @include media-query($palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
@@ -42,11 +49,44 @@ $on-laptop:        800px;
     }
 }
 
+// Fade mixin
+@mixin fade-transition($fvars...) {
+  -webkit-transition: $fvars;
+  -moz-transition: $fvars;
+  -ms-transition: $fvars;
+  -o-transition: $fvars;
+  transition: $fvars;
+}
 
+// Border radius mixin
+@mixin radius($radius...) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+// Box sizing mixin
+@mixin bsizing($box) {
+  -webkit-box-sizing: $box;
+  -moz-box-sizing: $box;
+  box-sizing: $box;
+}
+
+// Box shadow mixin
+@mixin bshadow($svars...) {
+  -webkit-box-shadow: $svars;
+  -moz-box-shadow: $svars;
+  box-shadow: $svars;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+		"header",
+		"sidebar",
+		"default",
+		"an",
+		"grid"
 ;

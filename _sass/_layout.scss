@@ -3,7 +3,6 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -45,7 +44,7 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-image: $background-image;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
@@ -92,7 +91,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -156,6 +154,37 @@
     }
 }
 
+/**
+  * Body
+  */
+
+home {
+	width: 640px;
+}
+
+.post {
+	width: 640px;
+	float: left;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+/**
+  * Homepage
+  */
+
+#index-welcome {
+
+	h1 {
+		font-size: 48px;
+	}
+}
 
 
 /**
@@ -163,6 +192,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+	margin-top: 25px;
 }
 
 .page-heading {
@@ -194,7 +224,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+	height: 60px;
 }
 
 .post-title {
@@ -211,7 +241,7 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 28px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -219,7 +249,7 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 24px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
