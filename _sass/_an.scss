@@ -1,43 +1,75 @@
-#can_embed_form_inner {
-	
-	h2 {
-		display: none;
-	}
-	
-	h3 {
-		display: none;
-	}
-	
+#can_embed_form {
+
 	h4 {
-		display: none;
+		text-transform: uppercase;
+	}
+
+	.entry-title {
+		text-transform: uppercase !important;
+		font-size: 35px;
+		line-height: 40px !important;
+		border-bottom: none !important;
+		padding-bottom: 0 !important;
+	}
+
+	input[type="submit"] {
+		background-color: $the-pink !important;
+		font-family: 'league-gothic';
+		font-size: 20px !important;
+		font-weight: 400 !important;
+		text-transform: uppercase;
+	
+		&:hover {
+			background-color: darken($the-pink, 25%) !important;
+		}
 	}
 	
-	form {
-		margin-bottom: 10px;
+	#d_sharing {
+	
+		ul {
+			margin-left: 0;
+			color: $the-gray !important;
+		}
 	}
 	
+	.main_action_image {
+		width: 90%;
+	}
 }
 
-#action_info {
+h4.action_target {
 	display: none;
 }
 
-#d_sharing {
-
-	ul {
-		display: none;
+#can_main_col {
+	width: 60%;
+	max-width: 655px;
+	
+	h2 {
+		margin-top: 50px;
 	}
-
+	
+	img {
+		margin-top: -135px;
+	}
+	
 }
 
-#can_embed_form input[type="submit"] {
-	background-color: $the-pink !important;
-	font-family: 'league-gothic';
-	font-size: 20px !important;
-	font-weight: 400 !important;
-	text-transform: uppercase;
-	
-	&:hover {
-		background-color: darken($the-pink, 25%) !important;
-	}
+#can_sidebar {
+	width: 35% !important;
+	background-color: $the-green !important;
+	position: relative;
+	@include radius(10px);
+}
+
+#action_info_inner, .action_letter {
+	display: none;
+}
+
+.action_status_goal {
+	color: $the-gray !important;
+}
+
+.action_status_running_total {
+	color: $the-pink !important;
 }
