@@ -57,7 +57,7 @@ h4.action_target {
 
 #can_sidebar {
 	width: 35% !important;
-	background-color: $the-green !important;
+	background-color: lighten($the-green, 20%) !important;
 	position: relative;
 	@include radius(10px);
 }
