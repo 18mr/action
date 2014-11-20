@@ -104,3 +104,19 @@ ul#footer {
 		}
 	}
 }
+
+.actionbutton {
+	background-color: $the-pink;
+	padding-top: 2px;
+	margin-top: 10px;
+	@include radius(10px);
+	
+	a {
+		color: #ddd;
+	}
+	
+	&:hover {
+		background-color: darken($the-pink, 25%) !important;
+		@include fade-transition(background-color 500ms);
+	}
+}

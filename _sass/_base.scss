@@ -134,12 +134,14 @@ p {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $the-pink;
     text-decoration: none;
 
     &:hover {
-        color: $text-color;
+        color: $the-gray;
 		outline: 0;
+		@include fade-transition(color 500ms);
+
     }
 	
 	&:focus {

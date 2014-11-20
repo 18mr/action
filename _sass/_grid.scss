@@ -1,7 +1,7 @@
 ul.rig {
 	list-style: none;
 	font-size: 0px;
-	margin-left: -2.5%;
+	margin-left: 2.5%;
 	
 	li {
 		display: inline-block;
@@ -16,16 +16,35 @@ ul.rig {
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		width: 30.84%;
+		margin-right: 2.49%;
+		margin-top: 10px;
 		
 		img {
 			max-width: 100%;
 			height: auto;
-			margin: 0 0 10px;
+			margin: 0;
 		}
 		
 		p {
 			font-style: italic;
 			text-align: center;
+		}
+		
+		span {
+			line-height: 22px;
+		}
+		
+		h2 {
+			margin-bottom: 10px;
+			
+			a {
+				color: $the-blue;
+			
+				&:hover {
+					color: darken($the-blue, 25%) !important;
+					@include fade-transition(color 500ms);
+				}
+			}
 		}
 	}
 }

@@ -3,7 +3,8 @@ layout: petition-page
 title: 'Tell the Department of Justice: Protect Our Right to Vote'
 permalink: /georgia-doj/
 category: campaigns
-featured-image: 'https://can2-prod.s3.amazonaws.com/petitions/photos/000/008/096/original/1414449624-1037.jpg'
+featured-image: '/static/images/featured/georgia-doj.jpg'
+blurb: 'With only hours left until Election Day, 40,000 Georgians could lose their chance to vote.'
 ---
 
 <link href='https://actionnetwork.org/css/style-embed-whitelabel.css' rel='stylesheet' type='text/css' />

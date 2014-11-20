@@ -29,8 +29,17 @@
 				<li>
 					<a href="http://18millionrising.org">Home</a>
 				</li>
-				<li>
+				<li class="parent">
 					<a href="{{ baseurl }}">Campaigns</a>
+					<ul class="dropdown visuallyhidden">
+						{% for post in site.categories.campaigns %}
+							<li>
+								<a href="{{ site:baseurl }}{{ post.url }}">
+									{{ post.title }}
+								</a>
+							</li>
+						{% endfor %}
+					</ul>
 				</li>
 				<li>
 					<a href="http://18millionrising.org/blog">Blog</a>
