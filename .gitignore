@@ -1,3 +1,4 @@
 _site
 .sass-cache
 CNAME
+s3_website.yaml
