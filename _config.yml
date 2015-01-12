@@ -15,3 +15,5 @@ markdown: kramdown
 
 permalink: title
 paginate: 9
+
+exclude: [s3_website.yml]
