@@ -7,8 +7,11 @@ layout: default
   <ul class="rig">
     {% for post in paginator.posts %}
       <li>
-        <img src="{{ post.featured-image }}">
-
+	    {% if post.featured-image %}
+          <img src="{{ post.featured-image }}">
+		{% else %}
+		  <img src="{{ site.baseurl }}/static/images/featured/default.png">
+		{% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>

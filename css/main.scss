@@ -36,7 +36,9 @@ $the-gray:		  #221e20;
 $on-palm:          600px;
 $on-laptop:        940px;
 
-
+// Bootstrap
+@import "bootstrap-sprockets";
+@import "bootstrap";
 
 // Using media queries with like this:
 // @include media-query($palm) {
