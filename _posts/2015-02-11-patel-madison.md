@@ -3,7 +3,7 @@ layout: petition-page
 title: 'Madison Police Department: Release the video of Sureshbhai Patel’s arrest!'
 permalink: /patel-madison-pd/
 category: campaigns
-featured-image: '/static/images/featured/patel.PNG'
+featured-image: '/static/images/featured/patel.png'
 blurb: 'Sureshbhai Patel was beaten and paralyzed by the Madison City Police Department. There’s video that could reveal the truth about what happened.'
 ---
 
