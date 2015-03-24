@@ -6,7 +6,18 @@ var trackEvent = function(ev) {
     ga('send', 'event', ev);
 };
 
-jQuery( document ).ready(function() {
+$(document).on('can_embed_loaded', function() {
+
+	console.log( "ready!" );
+	
+	var fieldError = function(name, text) {
+        var f = $('input[name="'+name+'"]');
+        f.addClass('ak-error');
+
+        var err = $('ul#ak-errors');
+        err.append('<li>'+text+'</li>');
+        return false;
+    };
 
     var validatePhone = function(num) {
         num = num.replace(/\s/g, '').replace(/\(/g, '').replace(/\)/g, '');
@@ -22,10 +33,15 @@ jQuery( document ).ready(function() {
     };
 
     can_embed_submitted = function(e) {
-//        e.preventDefault();
+        // e.preventDefault();
+		
+		// clear validation errors
+        $('form[name="act"] input').removeClass('ak-error');
+        $('ul#ak-errors').empty();
 
         var phone = $('#phone').val();
         if (!validatePhone(phone)) {
+			e.preventDefault();
             return fieldError('phone','Please enter a valid US phone number');
         }
 
@@ -45,14 +61,12 @@ jQuery( document ).ready(function() {
                 console.log('Placed call-congress call: ', res);
             }
         });
-        showOverlay();
-        return true;
     };
     $('#new_signature').submit(can_embed_submitted);
 
     $('#new_signature').submit(function(e) {
         e.preventDefault();
-        $('#email_button').click();
+        $('#').click();
     });
 
     $('#email_button').click(function(e) {
@@ -71,13 +85,4 @@ jQuery( document ).ready(function() {
 
     });
 
-    $('a.close').click(function (e){
-        $('.overlay').removeClass('visible');
-    });
-
 });
-
-function validateEmail(email) {
-    var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    return re.test(email);
-}
