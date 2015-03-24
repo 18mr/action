@@ -12,9 +12,9 @@ $(document).on('can_embed_loaded', function() {
 	
 	var fieldError = function(name, text) {
         var f = $('input[name="'+name+'"]');
-        f.addClass('ak-error');
+        f.addClass('phone-error');
 
-        var err = $('ul#ak-errors');
+        var err = $('ul#phone-errors');
         err.append('<li>'+text+'</li>');
         return false;
     };
@@ -36,8 +36,8 @@ $(document).on('can_embed_loaded', function() {
         // e.preventDefault();
 		
 		// clear validation errors
-        $('form[name="act"] input').removeClass('ak-error');
-        $('ul#ak-errors').empty();
+        $('form[name="act"] input').removeClass('phone-error');
+        $('ul#phone-errors').empty();
 
         var phone = $('#phone').val();
         if (!validatePhone(phone)) {
