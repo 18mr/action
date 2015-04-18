@@ -105,13 +105,6 @@ h2 {
 	
 }
 
-.exciting-title {
-	text-align: center;
-	font-size: 3em;
-	color: $the-pink;
-	margin-bottom: -50px;
-}
-
 #nomargin {
 		margin-bottom: 0;
 }
@@ -209,7 +202,7 @@ pre {
     margin-left: auto;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media-query($fullsize) {
         max-width: -webkit-calc(1000px - (#{$spacing-unit}));
         max-width:         calc(1000px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;

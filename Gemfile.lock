@@ -20,8 +20,6 @@ GEM
     autoprefixer-rails (4.0.2.2)
       execjs
     blankslate (2.1.2.4)
-    bootstrap-sass (3.3.1.0)
-      sass (~> 3.2)
     builder (3.2.2)
     celluloid (0.15.2)
       timers (~> 1.1.0)
@@ -157,7 +155,6 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
-  bootstrap-sass (~> 3.3.1)
   github-pages
   sass-rails (>= 3.2)
   wdm (>= 0.1.0)

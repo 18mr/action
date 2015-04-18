@@ -39,50 +39,6 @@
             margin-left: 20px;
         }
     }
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-image: $background-image;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
 }
 
 
@@ -181,7 +137,7 @@ h2 {
     letter-spacing: -1px;
     line-height: 1;
 
-    @include media-query($on-laptop) {
+    @include media-query($fullsize) {
         font-size: 36px;
     }
 }
@@ -192,7 +148,7 @@ h2 {
     h2 {
         font-size: 28px;
 
-        @include media-query($on-laptop) {
+        @include media-query($fullsize) {
             font-size: 28px;
         }
     }
@@ -200,7 +156,7 @@ h2 {
     h3 {
         font-size: 24px;
 
-        @include media-query($on-laptop) {
+        @include media-query($fullsize) {
             font-size: 22px;
         }
     }
@@ -208,7 +164,7 @@ h2 {
     h4 {
         font-size: 20px;
 
-        @include media-query($on-laptop) {
+        @include media-query($fullsize) {
             font-size: 18px;
         }
     }

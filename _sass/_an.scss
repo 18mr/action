@@ -36,6 +36,13 @@
 	.main_action_image {
 		width: 90%;
 	}
+	
+	#can_sidebar {
+		width: 35%;
+		background-color: lighten($the-green, 15%) !important;
+		position: relative;
+		@include radius(10px);
+	}
 }
 
 .can_fundraising_widget {
@@ -74,13 +81,6 @@ h4.action_target {
 		margin-top: -135px;
 	}
 	
-}
-
-#can_sidebar {
-	width: 35% !important;
-	background-color: lighten($the-green, 15%) !important;
-	position: relative;
-	@include radius(10px);
 }
 
 #action_info {

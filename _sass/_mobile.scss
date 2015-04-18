@@ -1,0 +1,49 @@
+/* Small Device */
+
+@media only screen 
+	and (max-width: 768px) {
+	
+	header #logo {
+		width: 131px;
+		float: none;
+		margin: auto;
+		
+		hgroup {
+		
+			h1 {
+				display: none;
+			}
+		}
+	}
+	
+	#can_embed_form {
+  
+		#can_main_col {
+			float: none;
+			margin: auto;
+			width: 100%;
+			margin-top: -10px;
+		}
+	
+		#can_sidebar {
+			clear: both;
+			float: none;
+			margin: auto;
+			width: 100%;
+			
+			.action_widget {
+				padding-top: 10px;
+			}
+		
+			.action_sidebar {
+				padding: 0 10px 10px;
+				margin-bottom: $spacing-unit;
+			}
+		}
+	}
+	
+	ul#footer {
+		height: auto;
+		margin-bottom: 20px;
+	}
+}
