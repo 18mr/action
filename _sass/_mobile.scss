@@ -3,6 +3,8 @@
 @media only screen 
 	and (max-width: 768px) {
 	
+	/* General */
+	
 	header #logo {
 		width: 131px;
 		float: none;
@@ -15,6 +17,41 @@
 			}
 		}
 	}
+	
+	/* Homepage */
+	
+	.home {
+		width: 100%;
+		float: none;
+		margin-top: 0;
+	}
+	
+	.site-header {
+		height: auto;
+		
+		#top-links ul {
+			height: auto;
+			margin-top: 5px;
+			
+			li {
+				width: 100%;
+				border-right: 0;
+				border-left: 0;
+				margin-left: 0;
+				margin-top: 3px;
+				
+				&:first-child, &:last-child {
+					@include radius(0);
+				}
+				
+				a {
+					width: 100%;
+				}
+			}
+		}
+	}
+	
+	/* Petition Page */
 	
 	#can_embed_form {
   
@@ -45,5 +82,17 @@
 	ul#footer {
 		height: auto;
 		margin-bottom: 20px;
+	}
+}
+
+/* Medium Device */
+
+@media only screen 
+	and (max-width: 992px)
+	and (min-width: 769px) {
+
+	.home {
+		width: 100%;
+		float: none;
 	}
 }
