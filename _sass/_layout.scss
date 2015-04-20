@@ -137,7 +137,7 @@ h2 {
     letter-spacing: -1px;
     line-height: 1;
 
-    @include media-query($fullsize) {
+    @include media-query($medium) {
         font-size: 36px;
     }
 }
@@ -148,7 +148,7 @@ h2 {
     h2 {
         font-size: 28px;
 
-        @include media-query($fullsize) {
+        @include media-query($medium) {
             font-size: 28px;
         }
     }
@@ -156,7 +156,7 @@ h2 {
     h3 {
         font-size: 24px;
 
-        @include media-query($fullsize) {
+        @include media-query($medium) {
             font-size: 22px;
         }
     }
@@ -164,7 +164,7 @@ h2 {
     h4 {
         font-size: 20px;
 
-        @include media-query($fullsize) {
+        @include media-query($medium) {
             font-size: 18px;
         }
     }

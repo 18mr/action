@@ -1,4 +1,4 @@
-#can_embed_form {
+#can_embed_form.can_768.can_float {
 
 	h4 {
 		text-transform: uppercase;
@@ -39,9 +39,11 @@
 	
 	#can_sidebar {
 		width: 35%;
-		background-color: lighten($the-green, 15%) !important;
+		background-color: lighten($the-green, 15%);
 		position: relative;
 		@include radius(10px);
+		float: right;
+		padding: 15px 20px;
 	}
 }
 
@@ -72,6 +74,7 @@ h4.action_target {
 #can_main_col {
 	width: 60%;
 	max-width: 655px;
+	float: left;
 	
 	h2 {
 		margin-top: 50px;

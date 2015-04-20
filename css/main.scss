@@ -34,8 +34,8 @@ $the-beige:		  #f1e5c6;
 $the-gray:		  #221e20;
 $the-light-beige: lighten($the-beige, 25%);
 
-$handheld:          600px;
-$fullsize:          940px;
+$small:          768px;
+$medium:         992px;
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -45,7 +45,7 @@ $fullsize:          940px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
+    @media only screen and (max-width: $device) {
         @content;
     }
 }
