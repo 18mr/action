@@ -47,7 +47,8 @@ $(document).on('can_embed_loaded', function() {
 
         var data = {
             campaignId: 'nanhui-ice',
-            userPhone: validatePhone(phone)
+            userPhone: validatePhone(phone),
+			zipcode: '00000'
         };
 
         $.ajax({
