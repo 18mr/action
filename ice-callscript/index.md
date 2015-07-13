@@ -6,7 +6,7 @@ permalink: /ice-call-script/
 
 ## You're being connected!
 
-You'll get a call from us shortly with further instructions. _If you don't receive a call, you can call ICE Director Sarah Saldana directly at (888) 351-4024 and ICE Field Director Craig Meyer at (415) 844-5512 ext. 4._
+You'll get a call from us shortly with further instructions. _If you don't receive a call, you can call ICE Director Sarah Saldana directly at 202-732-3000 and ICE Field Director Craig Meyer at 415-844-5690._
 
 __Here's a call script you can use to speak with ICE officials.__
 
