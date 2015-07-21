@@ -1,0 +1,30 @@
+.share-page {
+    text-align: center;
+	
+	span {
+		background-color: $the-pink;
+		display: inline-block;
+		padding: 3px 5px;
+		font-size: 1.8em;
+		@include radius(5px);
+		color: white;
+		font-family: "league-gothic";
+		text-transform: uppercase;
+		border: 0;
+		width: 150px;
+		margin-right: 65px;
+		margin-left: 65px;
+		margin-bottom: 20px;
+		@include bshadow(2px 3px 0px #bacc3f);
+ 
+		&:hover {
+			@include fade-transition(background-color 500ms);
+			background-color: darken($the-pink, 25%);
+		}
+	}
+
+    a {
+        font-weight: 400;
+        color: #fff;
+    }
+}

@@ -1,7 +1,9 @@
 ---
-layout: petition-page
+layout: callscript
 title: "You're calling Rep. Judy Chu"
 permalink: /chu-call-script/
+twittertext: "I just called on %40RepJudyChu to defend %23NetNeutrality for AAPIs. For civil rights. Call%3A"
+sharelink: /chu-nn/
 ---
 
 ## You're being connected!
@@ -22,13 +24,4 @@ __Here's the call script you'll hear before you connect to Rep. Chu's office.__
 </ul>
 </div>
 
-## Once you're done...
-
-<ul class="share-it">
-	<li id="twitter">
-		<a href="http://ctt.ec/47f1z">Tweet About It!</a>
-	</li>
-	<li id="facebook">
-		<a href="https://www.facebook.com/dialog/feed?app_id=141757769314383&display=popup&caption=We%20won%20net%20neutrality%2E%20Now%20let%27s%20protect%20it%2E%20Tell%20Rep%2E%20Judy%20Chu%20to%20stand%20up%20for%20net%20neutrality%20in%20the%20House%20Judiciary%20Committee%20today%21&link=http%3A%2F%2Faction.18mr.org%2Fnn-chu%2F&redirect_uri=http%3A%2F%2Faction.18mr.org%2Fnn-chu%2F">Share it on Facebook!</a>
-	</li>
-</div>
+## When you're done...
