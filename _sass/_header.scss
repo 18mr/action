@@ -1,5 +1,7 @@
 header {
 	height: 125px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 header {
@@ -132,7 +134,9 @@ nav#top-links {
 				display: inline-block;
 				font-size: 17px;
 				padding: 9px 0;
-				width: 184px;
+				max-width: 184px;
+				min-width: 147px;
+				width: 19.55%;
 				text-align: center;
 				border-right: 2px solid #3c393a;
 				border-left: 2px solid #000;
@@ -160,7 +164,6 @@ nav#top-links {
 					font-family: 'league-gothic';
 					text-transform: uppercase;
 					display: block;
-					width: 184px;
 					height: auto;
 				}
 			

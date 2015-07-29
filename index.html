@@ -5,10 +5,13 @@ layout: default
 <div class="home">
 
   <ul class="rig">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
-        <img src="{{ post.featured-image }}">
-
+	    {% if post.featured-image %}
+          <img src="{{ post.featured-image }}">
+		{% else %}
+		  <img src="{{ site.baseurl }}/static/images/featured/default.png">
+		{% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
@@ -22,6 +25,28 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
+
+{% if paginator.total_pages > 1 %}
+	<div class="pagination">
+		{% if paginator.previous_page %}
+			<span class="pag-link"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></span>
+		{% else %}
+		{% endif %}
+
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+				<span id="the-page">{{ page }}</span>
+			{% elsif page == 1 %}
+				<span><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></span>
+			{% else %}
+				<span><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></span>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+			<span class="pag-link"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></span>
+		{% else %}
+		{% endif %}
+	</div>
+{% endif %}

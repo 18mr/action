@@ -32,7 +32,7 @@
 				<li class="parent">
 					<a href="{{ baseurl }}">Campaigns</a>
 					<ul class="dropdown visuallyhidden">
-						{% for post in site.categories.campaigns %}
+						{% for post in site.categories.campaigns limit:5 %}
 							<li>
 								<a href="{{ site:baseurl }}{{ post.url }}">
 									{{ post.title }}

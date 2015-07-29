@@ -1,0 +1,29 @@
+.pagination {
+	clear: both;
+	text-align: center;
+	height: 40px;
+	font-family: $header-font-family;
+	font-size: $header-font-size;
+	width: 100%;
+	
+	span {
+		background-color: $the-blue;
+		color: $grey-color-light;
+		padding: 2px 15px;
+		margin: 10px;
+		@include radius(10px);
+		
+		&#the-page {
+			background-color: $the-green;
+		}
+		
+		a {
+			color: $the-yellow;
+			
+			&:hover {
+				color: $the-gray;
+				@include fade-transition(500ms);
+			}
+		}
+	}
+}

@@ -14,8 +14,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
 
 audio[controls], canvas, video {
 	display: inline-block;
-	*display: inline;
-	*zoom: 1;
 }
 
 /**
@@ -105,13 +103,6 @@ h2 {
 	
 }
 
-.exciting-title {
-	text-align: center;
-	font-size: 3em;
-	color: $the-pink;
-	margin-bottom: -50px;
-}
-
 #nomargin {
 		margin-bottom: 0;
 }
@@ -123,6 +114,8 @@ h2 {
 p {
 	text-align: justify;
 	padding-right: 10px;
+	font-size: 14px;
+	line-height: 2.14em;
 }
 
 .caption {
@@ -207,12 +200,13 @@ pre {
     margin-left: auto;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(1000px - (#{$spacing-unit}));
-        max-width:         calc(1000px - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+/*    @include media-query($medium) {
+ *       max-width: -webkit-calc(1000px - (#{$spacing-unit}));
+ *       max-width:         calc(1000px - (#{$spacing-unit}));
+ *       padding-right: $spacing-unit / 2;
+ *       padding-left: $spacing-unit / 2;
+ *   }
+ */
 }
 
 
