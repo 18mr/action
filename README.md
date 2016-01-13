@@ -10,5 +10,4 @@ The real live version is hosted elsewhere. Check out what we're up to at http://
 
 These are known issues that need to be resolved at some point.
 
-- automatic social media share generation for "call" pages
 - make the donation page prettier
