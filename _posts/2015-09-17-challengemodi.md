@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /challengemodi/
 title: "Challenge Modi to Take a Stand for LGBTQ Indians"
 category: campaigns
-featured-image: 'static/images/featured/challengemodi.png'
+featured-image: '/static/images/featured/challengemodi.png'
 blurb: "Will Silicon Valley leaders #ChallengeModi to repeal Section 377 for LGBTQ rights?"
 callcampaign: false
 ---
