@@ -2,6 +2,17 @@
 
 	h4 {
 		text-transform: uppercase;
+		
+		&.first_line {
+			text-transform: none;
+			color: $the-blue;
+			font-size: 1.5em;
+		}
+		
+		.graytext {
+			text-transform: uppercase;
+			color: $the-gray;
+		}
 	}
 
 	.entry-title {
@@ -45,6 +56,10 @@
 		float: right;
 		padding: 15px 20px;
 	}
+	
+	ul {
+		margin-left: 0;
+	}
 }
 
 .can_fundraising_widget {
@@ -76,9 +91,21 @@ h4.action_target {
 	max-width: 655px;
 	float: left;
 	
+	.last_line {
+		width: 98%;
+		
+		h2 {
+			text-transform: uppercase;
+		}
+	}
+	
 	h2 {
 		margin-top: 50px;
 	}	
+	
+	.event_full {
+		width: 98%;
+	}
 }
 
 #action_info {

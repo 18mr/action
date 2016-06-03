@@ -11,3 +11,4 @@ The real live version is hosted elsewhere. Check out what we're up to at http://
 These are known issues that need to be resolved at some point.
 
 - make the donation page prettier
+- create dead petition page
