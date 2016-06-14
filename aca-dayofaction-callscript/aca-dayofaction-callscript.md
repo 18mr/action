@@ -2,8 +2,8 @@
 layout: callscript
 title: "You're calling legislators to support the Adoptee Citizenship Act"
 permalink: /aca-dayofaction-call-script/
-twittertext: 'I just called legislators urging them to vote for the Adoptee Citizenship Act! %23citizenshipforalladoptees %4018millionrising'
-sharelink: /aca-dayofaction/
+twittertext: 'Call legislators urging them to vote for the Adoptee Citizenship Act! %23citizenshipforalladoptees'
+sharelink: /support-ACA/
 ---
 ## You're being connected!
 
@@ -13,8 +13,8 @@ __Here's a call script to reference during your conversation with the six legisl
 
 <div class="featurebox">
 <ul class="script">
-<li>I’m calling to ask _Name of Senator and Representative_ to support all international adoptees and to vote for the S2275, Adoptee Citizenship Act.</li>
-<li>Thousands of adoptees do not have U.S. citizenship, barring them from government services, financial aid, home loans, and voting privileges, while also placing them at risk for deportation. The ACA will remedy this discriminatory situation as all children of American parents should be treated equally. .</li>
+<li>I’m calling to ask _Name of Senator/Representative_ to support all international adoptees and to vote for the S2275 Adoptee Citizenship Act.</li>
+<li>Thousands of adoptees do not have U.S. citizenship, barring them from government services, financial aid, home loans, and voting privileges, while also placing them at risk for deportation. The ACA will remedy this discriminatory situation as all children of American parents should be treated equally.</li>
 <li>I urge you to vote for the Adoptee Citizenship Act of 2015 and to support all adult adoptees. Thank you.
 </li></ul>
 </div>
