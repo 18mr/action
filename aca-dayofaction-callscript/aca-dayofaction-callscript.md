@@ -9,6 +9,19 @@ sharelink: /support-ACA/
 
 You'll get a call from us shortly with further instructions. If you don't hear from us, you can call in at (510) 230-2893. 
 
+<strong> Once you're on the phone with us, we'll connect you to the following legislators. After the other party hangs up or when you press the * button, you'll be directed to the next office. </strong>
+
+<ol>
+<li>Senate Judiciary Chairman Grassley</li>
+<li>Judiciary Chairman Goodlatte</li>
+<li>Senator Inhofe</li>
+<li>Senator Blunt</li>
+<li>Congressman Labrador</li>
+<li>Congressman Smith</li>
+</ol>
+
+<strong>If an office isn't available, leave a message and press * to be directed to the next legislator. </strong>
+
 __Here's a call script to reference during your conversation with the six legislators' offices.__
 
 <div class="featurebox">
