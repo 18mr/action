@@ -2,7 +2,7 @@
 layout: callscript
 title: "You're calling legislators to support the Adoptee Citizenship Act"
 permalink: /aca-dayofaction-call-script/
-twittertext: 'Call legislators urging them to vote for the Adoptee Citizenship Act! %23citizenshipforalladoptees'
+twittertext: 'Call legislators urging them 2 vote for the Adoptee Citizenship Act! %23citizenshipforalladoptees'
 sharelink: /support-ACA/
 ---
 ## You're being connected!
