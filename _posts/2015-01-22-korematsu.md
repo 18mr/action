@@ -2,7 +2,7 @@
 layout: petition-page
 title: "Honor Fred Korematsu With a Google Doodle"
 permalink: /korematsudoodle/
-featured-image: 'static/images/featured/korematsu.png'
+featured-image: '/static/images/featured/korematsu.png'
 category: campaigns
 blurb: "Fred Korematsu Day is Jan. 30. Let's get Google to celebrate his legacy with us."
 description: "Fred Korematsu was a civil rights hero. Ask Google to recognize him with a Google Doodle on his birthday, Jan. 30."
