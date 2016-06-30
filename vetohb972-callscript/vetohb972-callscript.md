@@ -6,10 +6,9 @@ sharelink: /veto-hb972/
 ---
 ## You're being connected!
 
-You'll get a call from us shortly with further instructions. If you don't hear from us, you can call in at (336) 221-3643 or (919) 289-3779.
+You'll get a call from us shortly with further instructions. If you don't hear from us, you can call (336) 221-3643 to be connected.
 
 <strong> Once you're on the phone with us, we'll connect you to Governor McCrory's office.</strong>
-
 
 <strong>If Governor McCrory isn't available, leave a message and press * to end the call. </strong>
 
