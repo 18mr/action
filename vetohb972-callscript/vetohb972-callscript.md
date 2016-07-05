@@ -1,3 +1,4 @@
+---
 layout: callscript
 title: "You're calling Governor McCrory to #VetoHB972"
 permalink: /vetohb972-call-script/
