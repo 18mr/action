@@ -1,0 +1,7 @@
+---
+layout: callscript
+title: "You're calling CA State Legislature"
+permalink: /ab1726-call-script/
+twittertext: 'Call CA State Legislators to pass AB1726. #AllCaliforniansCount %2318MR'
+sharelink: /ab1726-nn/
+---
