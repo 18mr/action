@@ -3,7 +3,7 @@ layout: callscript
 title: "You're calling CA State Legislature"
 permalink: /ab1726-call-script/
 twittertext: 'Call CA State Legislators to pass AB1726. %23AllCaliforniansCount'
-sharelink: /ab1726-nn/
+sharelink: /ab1726call/
 ---
 ## You're being connected!
 
