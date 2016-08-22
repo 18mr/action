@@ -24,8 +24,8 @@ __Here's a call script to reference during your conversation with the five legis
 <div class="featurebox">
 <ul class="script">
 <li> I’m calling to ask (Senator's name) to pass AB 1726.</li>
-<li> AB 1726 would disaggregate health and educational data to ensure that all AAPI communities receive the support and services they need to thrive. The model minority myth would have us believe that AAPIs are all rich and highly educated -- erasing the challenges marginalized AAPI communities experience.</li>
-<li>AB 1726 would finally show the economic, health, and educational disparities within our communities.</li>
+<li> AB 1726 would disaggregate health data to ensure that all AAPI communities receive the support and services they need to thrive. The model minority myth erases the challenges marginalized AAPI communities experience.</li>
+<li>AB 1726 would finally show the health disparities within our communities.</li>
 <li> I strongly urge (Senator's name) to pass AB 1726. Thank you.</li></ul></div>
 
 ## When you're done...
