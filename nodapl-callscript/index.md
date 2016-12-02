@@ -16,9 +16,10 @@ Here are some talking points to be sure to cover:
 - Ask that the department you are calling (Morton County Sheriff’s Department, North Dakota National Guard, Governor Jack Dalrymple of North Dakota) to cease using water cannons on protesters immediately due to subfreezing temperatures -- endangering their lives and safety. 
 - Ask them to:
 - Honor the protestors’ freedom to assembly by keeping the camp open to public access and to not arrest or cite protestors at the Standing Rock protest camp.
-- Honor the Standing Rock Sioux’s sovereign land. 
+- Honor the Standing Rock Sioux’s sovereign land under the Treaty of Fort Laramie.
 - Encourage them to put the lives and needs of the people of the Standing Rock Sioux and the 8 million people who will depend on this water first --- and not oil.
-- Thank them for their time.
+Thank them for their time.
+
 
 Thank you for your support!
 
