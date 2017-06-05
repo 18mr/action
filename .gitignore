@@ -3,5 +3,9 @@ _site
 s3_website.yml
 .jekyll-metadata
 untitled folder/---.mdown
+.DS_Store
+_posts/.DS_Store
+static/.DS_Store
+static/images/.DS_Store
 
 _posts/2016-11-15-justice-4-philando copy.md
