@@ -17,7 +17,7 @@ Here are some talking points to be sure to cover:
 - Your or a loved one’s personal story of why ACA is important to you.
 - That more than 20 million Americans would not have access to healthcare if ACA is repealed.
 - 20 million Americans would lose access to preventative care, mental and reproductive health care.
-- 14 million people will be kicked off Medicaid, and 17% of all Asian Americans and 34% of all NHPIs will lose this coverage. 
+- 14 million people will be kicked off Medicaid, and 17% of all Asian Americans and 34% of all NHPIs will lose this coverage.
 - Since passing the ACA, the uninsured rate for AAs and NHPIs has been cut by 50%
 
 - And then urge them to vote NO on the Senate ACA Repeal Bill.
