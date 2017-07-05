@@ -3,7 +3,7 @@ layout: callscript
 title: "You're calling your Senators!"
 permalink: /savehealthcare-call-script/
 twittertext: "Call your Senators now to %23ProtectOurCare! "
-sharelink: /savehealthcarecall/
+sharelink: /savehealthcare/
 ---
 
 ## You're being connected!
