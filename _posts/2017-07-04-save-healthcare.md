@@ -4,7 +4,7 @@ permalink: /savehealthcare/
 title: "Tell Congress: Don't Play With Our Lives"
 category: campaigns
 featured-image: '/static/images/featured/savetheinternet.png'
-blurb: "Tell your Senators to Vote NO on the ACA Repeal Bill and to obstruct Senate business!"
+blurb: "Tell your Senators to Vote NO on the ACA Repeal Bill!"
 callcampaign: true
 campaignId: 18
 ---
