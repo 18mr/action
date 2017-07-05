@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /savehealthcare/
 title: "Tell Congress: Don't Play With Our Lives"
 category: campaigns
-featured-image: '/static/images/featured/savetheinternet.png'
+featured-image: '/static/images/featured/Stop-TrumpCare.png'
 blurb: "Tell your Senators to Vote NO on the ACA Repeal Bill!"
 callcampaign: true
 campaignId: 18
