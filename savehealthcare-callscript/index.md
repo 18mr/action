@@ -6,7 +6,7 @@ twittertext: "Call your Senators now to %23ProtectOurCare! "
 sharelink: /savehealthcare/
 ---
 
-## You're being connected!
+## You're being connected! If you don't receive a call, call 202-798-1373!
 
 You’ll receive a phone call from us shortly. The audio prompts will guide you through the process. When you are done with a call, even if you leave a voice message, press STAR (*) and you will be connected to the next office.
 
