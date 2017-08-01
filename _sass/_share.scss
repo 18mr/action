@@ -15,7 +15,7 @@
 		margin-right: 65px;
 		margin-left: 65px;
 		margin-bottom: 20px;
-		@include bshadow(2px 3px 0px #bacc3f);
+		box-shadow: 2px 3px 0px #bacc3f;
 
 		&:hover {
 			transition: background-color 500ms;

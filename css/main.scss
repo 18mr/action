@@ -50,13 +50,6 @@ $medium:         992px;
     }
 }
 
-// Box shadow mixin
-@mixin bshadow($svars...) {
-  -webkit-box-shadow: $svars;
-  -moz-box-shadow: $svars;
-  box-shadow: $svars;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
