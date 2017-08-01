@@ -11,7 +11,7 @@
 		color: $grey-color-light;
 		padding: 2px 15px;
 		margin: 10px;
-		@include radius(10px);
+		border-radius: 10px;
 
 		&#the-page {
 			background-color: $the-green;

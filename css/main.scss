@@ -50,13 +50,6 @@ $medium:         992px;
     }
 }
 
-// Border radius mixin
-@mixin radius($radius...) {
-  -webkit-border-radius: $radius;
-  -moz-border-radius: $radius;
-  border-radius: $radius;
-}
-
 // Box sizing mixin
 @mixin bsizing($box) {
   -webkit-box-sizing: $box;

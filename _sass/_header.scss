@@ -75,7 +75,7 @@ header {
 		float: left;
 		width: 300px;
 		margin: 0 10px;
-		@include radius(0 0 10px 10px);
+		border-radius: 0 0 10px 10px;
 		padding: 0 10px;
 		margin-right: 0;
 		margin-left: 90px;
@@ -102,7 +102,7 @@ header {
 			display: inline-block;
 			padding: 3px 5px;
 			font-size: 1.2em;
-			@include radius(5px);
+			border-radius: 5px;
 			float: right;
 			color: white;
 			font-family: "league-gothic";
@@ -173,13 +173,13 @@ nav#top-links {
 
 				&:first-child {
 					border-left: 0;
-					@include radius(10px 0px 0px 10px);
+					border-radius: 10px 0px 0px 10px;
 					margin-left: 0;
 				}
 
 				&:last-child {
-					border-right:0;
-					@include radius(0px 10px 10px 0px);
+					border-right: 0;
+					border-radius: 0px 10px 10px 0px;
 				}
 
 				&:hover {
