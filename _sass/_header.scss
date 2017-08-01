@@ -79,7 +79,7 @@ header {
 		padding: 0 10px;
 		margin-right: 0;
 		margin-left: 90px;
-		@include bsizing(border-box);
+		box-sizing: border-box;
 		padding: 5px;
 
 		h3 {

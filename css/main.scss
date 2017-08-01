@@ -50,13 +50,6 @@ $medium:         992px;
     }
 }
 
-// Box sizing mixin
-@mixin bsizing($box) {
-  -webkit-box-sizing: $box;
-  -moz-box-sizing: $box;
-  box-sizing: $box;
-}
-
 // Box shadow mixin
 @mixin bshadow($svars...) {
   -webkit-box-shadow: $svars;
