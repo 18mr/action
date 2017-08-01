@@ -1,6 +1,6 @@
 .share-page {
     text-align: center;
-	
+
 	span {
 		background-color: $the-pink;
 		display: inline-block;
@@ -16,9 +16,9 @@
 		margin-left: 65px;
 		margin-bottom: 20px;
 		@include bshadow(2px 3px 0px #bacc3f);
- 
+
 		&:hover {
-			@include fade-transition(background-color 500ms);
+			transition: background-color 500ms;
 			background-color: darken($the-pink, 25%);
 		}
 	}

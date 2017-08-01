@@ -2,13 +2,13 @@
 
 	h4 {
 		text-transform: uppercase;
-		
+
 		&.first_line {
 			text-transform: none;
 			color: $the-blue;
 			font-size: 1.5em;
 		}
-		
+
 		.graytext {
 			text-transform: uppercase;
 			color: $the-gray;
@@ -30,25 +30,25 @@
 		font-size: 20px !important;
 		font-weight: 400 !important;
 		text-transform: uppercase;
-	
+
 		&:hover {
 			background-color: darken($the-pink, 25%) !important;
 		}
 	}
-	
+
 	#d_sharing {
-	
+
 		ul {
 			margin-left: 0;
 			color: $the-gray !important;
 			font-size: 12px;
 		}
 	}
-	
+
 	.main_action_image {
 		width: 90%;
 	}
-	
+
 	#can_sidebar {
 		width: 35%;
 		background-color: lighten($the-green, 15%);
@@ -57,27 +57,27 @@
 		float: right;
 		padding: 15px 20px;
 	}
-	
+
 	ul {
 		font-size: 14px;
 	}
 }
 
 .can_fundraising_widget {
-	
+
 	h2.line {
 		display: none;
 	}
-	
+
 	#donation_recipient_wrap {
 		display: none;
 	}
-	
+
 	#donation_welcome {
 		clear: both;
 		margin-top: 15px !important;
 	}
-	
+
 	#donate_form_button {
 		font-family: 'sans-serif' !important;
 	}
@@ -91,19 +91,19 @@ h4.action_target {
 	width: 60%;
 	max-width: 655px;
 	float: left;
-	
+
 	.last_line {
 		width: 98%;
-		
+
 		h2 {
 			text-transform: uppercase;
 		}
 	}
-	
+
 	h2 {
 		margin-top: 50px;
-	}	
-	
+	}
+
 	.event_full {
 		width: 98%;
 	}
@@ -128,13 +128,13 @@ h4.action_target {
 ul#footer {
 	margin: 0 auto;
 	height: 40px;
-	  
+
 	li {
 		display: inline-block;
 		padding: 5px 30px 0 0;
 		font-size: 17px;
 		position: relative;
-		
+
 		a {
 			color: $the-pink;
 			font-size: 18px;
@@ -147,7 +147,7 @@ ul#footer {
 
 		a:hover {
 			color: $the-gray;
-			@include fade-transition(color 500ms);
+			transition: color 500ms;
 		}
 	}
 }
@@ -157,13 +157,13 @@ ul#footer {
 	padding-top: 2px;
 	margin-top: 10px;
 	@include radius(10px);
-	
+
 	a {
 		color: #ddd;
 	}
-	
+
 	&:hover {
 		background-color: darken($the-pink, 25%) !important;
-		@include fade-transition(background-color 500ms);
+		transition: background-color 500ms;
 	}
 }

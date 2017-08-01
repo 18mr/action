@@ -50,15 +50,6 @@ $medium:         992px;
     }
 }
 
-// Fade mixin
-@mixin fade-transition($fvars...) {
-  -webkit-transition: $fvars;
-  -moz-transition: $fvars;
-  -ms-transition: $fvars;
-  -o-transition: $fvars;
-  transition: $fvars;
-}
-
 // Border radius mixin
 @mixin radius($radius...) {
   -webkit-border-radius: $radius;

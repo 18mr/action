@@ -14,7 +14,7 @@ header {
 		padding-top: 15px;
 		*zoom: 1;
 		margin-left: 0;
-	
+
 		div {
 			float: left;
 			margin-right: 20px;
@@ -24,7 +24,7 @@ header {
 			width: 131px;
 			height: 85px;
 			position: relative;
-		
+
 			span {
 				position: absolute;
 				top: 0;
@@ -35,41 +35,40 @@ header {
 				background-repeat: no-repeat;
 				background-position: 0 0;
 				opacity: 0;
-				@include fade-transition(opacity 0.5s);
-	  
+				transition: opacity 500ms;
 				&:hover {
 					opacity: 1;
 				}
 			}
-		
+
 		}
-	
+
 		hgroup {
 			padding: 25px 0 15px 40px;
-	  
+
 			h1 {
 				font-size: 48px;
 				line-height: 40px;
 				margin: 0;
 				font-weight: bold;
 			}
-		
+
 			h2 {
 				margin: 0;
 				font-size: 18px;
 			}
 		}
-	
+
 		&:before, &:after {
 			content: "";
 			display: table;
 		}
-  
+
 		&:after {
 			clear: both;
 		}
 	}
-  
+
 	#register-widget {
 		background-color: $the-green;
 		height: 105px;
@@ -82,7 +81,7 @@ header {
 		margin-left: 90px;
 		@include bsizing(border-box);
 		padding: 5px;
-	
+
 		h3 {
 			font-size: 21px;
 			margin-bottom: 0;
@@ -90,14 +89,14 @@ header {
 			text-align: center;
 			color: white;
 		}
-		
+
 		h4 {
 			font-size: 16px;
 			margin-top: 57px;
 			text-align: center;
 			line-height: 0;
 		}
-	  
+
 		span {
 			background-color: $the-blue;
 			display: inline-block;
@@ -114,9 +113,9 @@ header {
 			margin-left: 65px;
 			margin-top: 10px;
 			@include bshadow(2px 3px 0px #bacc3f);
-  
+
 			&:hover {
-				@include fade-transition(background-color 500ms);
+				transition: background-color 500ms;
 				background-color: $the-pink;
 			}
 		}
@@ -125,11 +124,11 @@ header {
 
 nav#top-links {
 		display: block;
-  
+
 		ul {
 			margin: 0 auto;
 			height: 40px;
-	  
+
 			li {
 				display: inline-block;
 				font-size: 17px;
@@ -144,19 +143,19 @@ nav#top-links {
 				position: relative;
 				margin-top: 15px;
 				margin-left: -4px;
-			
+
 				ul.dropdown {
 					position: absolute;
 					top: 40px;
 					z-index: 9000;
-				
+
 					li {
 						border-radius: 0;
 						border: 0;
 						margin: 0;
 					}
 				}
-		
+
 				a {
 					color: #e8e8e8;
 					font-size: 18px;
@@ -166,26 +165,26 @@ nav#top-links {
 					display: block;
 					height: auto;
 				}
-			
+
 				a.active {
 					color: $the-yellow;
 				}
-				
-	  
+
+
 				&:first-child {
 					border-left: 0;
 					@include radius(10px 0px 0px 10px);
 					margin-left: 0;
 				}
-	  
+
 				&:last-child {
 					border-right:0;
 					@include radius(0px 10px 10px 0px);
 				}
-	  
+
 				&:hover {
 					background-color: $the-pink;
-					@include fade-transition(background-color 500ms);
+					transition: background-color 500ms;
 				}
 			}
 		}

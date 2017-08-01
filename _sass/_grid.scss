@@ -2,7 +2,7 @@ ul.rig {
 	list-style: none;
 	font-size: 0px;
 	margin-left: 2.5%;
-	
+
 	li {
 		display: inline-block;
 		padding: 10px;
@@ -18,31 +18,31 @@ ul.rig {
 		width: 30.84%;
 		margin-right: 2.49%;
 		margin-top: 10px;
-		
+
 		img {
 			max-width: 100%;
 			height: auto;
 			margin: 0;
 		}
-		
+
 		p {
 			font-style: italic;
 			text-align: center;
 		}
-		
+
 		span {
 			line-height: 22px;
 		}
-		
+
 		h2 {
 			margin-bottom: 10px;
-			
+
 			a {
 				color: $the-blue;
-			
+
 				&:hover {
 					color: darken($the-blue, 25%) !important;
-					@include fade-transition(color 500ms);
+					transition: color 500ms;
 				}
 			}
 		}
@@ -52,7 +52,7 @@ ul.rig {
 @include media-query($small){
 	ul.rig {
 		margin-left: 0;
-	
+
 		li {
 			width: 100%;
 			margin: 0 0 20px;
@@ -63,7 +63,7 @@ ul.rig {
 @media only screen
 	and (max-width: 992px)
 	and (min-width: 769px) {
-	
+
 	ul.rig li {
 		width: 47.5%;
 	}

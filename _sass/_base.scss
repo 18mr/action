@@ -100,7 +100,7 @@ h1 {
 }
 
 h2 {
-	
+
 }
 
 #nomargin {
@@ -110,7 +110,7 @@ h2 {
 /**
   * Body
   */
-  
+
 p {
 	text-align: justify;
 	padding-right: 10px;
@@ -133,14 +133,14 @@ a {
     &:hover {
         color: $the-gray;
 		outline: 0;
-		@include fade-transition(color 500ms);
+		transition: color 500ms;
 
     }
-	
+
 	&:focus {
 		outline: thin dotted;
 	}
-	
+
 	&:active {
 		outline: 0;
 	}
@@ -246,7 +246,7 @@ pre {
   * Non-semantic helper classes
   * Please define your styles before this section.
   */
-  
+
 /* For image replacement */
 
 .ir {
@@ -256,7 +256,7 @@ pre {
 	background-repeat: no-repeat;
 	text-align: left;
 	direction: ltr;
-	
+
 	br {
 		display: none;
 	}
