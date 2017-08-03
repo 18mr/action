@@ -45,22 +45,22 @@ $medium:           992px;
 //     }
 // }
 @mixin media-query($device) {
-    @media only screen and (max-width: $device) {
-        @content;
-    }
+	@media only screen and (max-width: $device) {
+		@content;
+	}
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-    "base",
-    "layout",
-    "syntax-highlighting",
-		"header",
-		"sidebar",
-		"default",
-		"an",
-		"grid",
-		"pagination",
-		"mobile",
-		"share"
+	"base",
+	"layout",
+	"syntax-highlighting",
+	"header",
+	"sidebar",
+	"default",
+	"an",
+	"grid",
+	"pagination",
+	"mobile",
+	"share"
 ;

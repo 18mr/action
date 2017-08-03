@@ -4,8 +4,8 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
@@ -29,14 +29,14 @@ html {
 }
 
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
+	font-family: $base-font-family;
+	font-size: $base-font-size;
+	line-height: $base-line-height;
 	font-size: 13px;
 	line-height: 1.231;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $the-beige;
+	font-weight: 300;
+	color: $text-color;
+	background-color: $the-beige;
 }
 
 /**
@@ -46,15 +46,15 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+	margin-bottom: $spacing-unit / 2;
 }
 
 /**
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+	max-width: 100%;
+	vertical-align: middle;
 	padding-bottom: 10px;
 }
 
@@ -62,32 +62,32 @@ img {
  * Figures
  */
 figure > img {
-    display: block;
+	display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+	font-size: $small-font-size;
 }
 
 /**
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+	margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+	> ul,
+	> ol {
+		margin-bottom: 0;
+	}
 }
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+	font-weight: 300;
 	font-family: $header-font-family;
 }
 
@@ -104,7 +104,7 @@ h2 {
 }
 
 #nomargin {
-		margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 /**
@@ -127,15 +127,14 @@ p {
  * Links
  */
 a {
-    color: $the-pink;
-    text-decoration: none;
+	color: $the-pink;
+	text-decoration: none;
 
-    &:hover {
-        color: $the-gray;
+	&:hover {
+		color: $the-gray;
 		outline: 0;
 		transition: color 500ms;
-
-    }
+	}
 
 	&:focus {
 		outline: thin dotted;
@@ -150,16 +149,16 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+	color: $grey-color;
+	border-left: 4px solid $grey-color-light;
+	padding-left: $spacing-unit / 2;
+	font-size: 18px;
+	letter-spacing: -1px;
+	font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+	> :last-child {
+		margin-bottom: 0;
+	}
 }
 
 /**
@@ -167,25 +166,25 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+	font-size: 15px;
+	border: 1px solid $grey-color-light;
+	border-radius: 3px;
+	background-color: #eef;
 }
 
 code {
-    padding: 1px 5px;
+	padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+	padding: 8px 12px;
+	overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+	> code {
+		border: 0;
+		padding-right: 0;
+		padding-left: 0;
+	}
 }
 
 
@@ -194,11 +193,11 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(1000px - (#{$spacing-unit} * 2));
-    max-width:         calc(1000px - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    @extend %clearfix;
+	max-width: -webkit-calc(1000px - (#{$spacing-unit} * 2));
+	max-width:         calc(1000px - (#{$spacing-unit} * 2));
+	margin-right: auto;
+	margin-left: auto;
+	@extend %clearfix;
 
 /*    @include media-query($medium) {
  *       max-width: -webkit-calc(1000px - (#{$spacing-unit}));
@@ -216,11 +215,11 @@ pre {
  */
 %clearfix {
 
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
 }
 
 
@@ -230,16 +229,16 @@ pre {
  */
 .icon {
 
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+	> svg {
+		display: inline-block;
+		width: 16px;
+		height: 16px;
+		vertical-align: middle;
 
-        path {
-            fill: $grey-color;
-        }
-    }
+		path {
+			fill: $grey-color;
+		}
+	}
 }
 
 /**
