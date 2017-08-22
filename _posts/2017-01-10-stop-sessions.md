@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: /stopsessions/
+permalink: stopsessions.html
 title: "Call Senate to #StopSessions"
 category: campaigns
 featured-image: '/static/images/featured/stopsessions.png'

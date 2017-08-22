@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: /support-ACA/
+permalink: support-ACA.html
 title: "Call Legislators: Pass the Adoptee Citizenship Act now!"
 category: campaigns
 featured-image: '/static/images/featured/support-aca.png'

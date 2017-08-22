@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: /nn-appropriations/
+permalink: nn-appropriations.html
 title: "Call your member of Congress: Stop the Sneak Attack on Net Neutrality"
 category: campaigns
 featured-image: '/static/images/featured/nn-appropriations.jpg'

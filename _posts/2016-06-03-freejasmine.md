@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Judge Lu: We Demand you #FreeJasmine"
-permalink: /freejasmine/
+permalink: freejasmine.html
 category: campaigns
 featured-image: '/static/images/featured/freejasmine.jpg'
 blurb: "Demand BLM activist Jasmine Richards receive no jail time for her wrongful conviction of attempted lynching."

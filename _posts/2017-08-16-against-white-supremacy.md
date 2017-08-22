@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: /againstwhitesupremacy/
+permalink: againstwhitesupremacy.html
 title: "Asian Americans Against White Supremacy"
 category: campaigns
 featured-image: 

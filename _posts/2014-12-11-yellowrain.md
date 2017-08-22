@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Tell NPR This Can't Happen Again"
-permalink: /yellowrain/
+permalink: yellowrain.html
 category: campaigns
 featured-image: '/static/images/featured/hmonghands.jpg'
 blurb: "Why did Radiolab get away with making light of genocide and disrespecting a survivor?"

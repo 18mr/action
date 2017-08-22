@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Hilton and Marriott: #BanJulienBlanc"
-permalink: /banjulienblanc/
+permalink: banjulienblanc.html
 category: campaigns
 featured-image: '/static/images/featured/banjb.png'
 blurb: "We're asking Hilton and Marriott to protect their customers from this sleazy pickup artist."

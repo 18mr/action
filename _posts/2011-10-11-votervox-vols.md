@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: 'Be a VoterVOX Volunteer'
-permalink: /vv-volunteer/
+permalink: vv-volunteer.html
 category: campaigns
 featured-image: 
 blurb: 'Volunteer as a translator with VoterVOX.'

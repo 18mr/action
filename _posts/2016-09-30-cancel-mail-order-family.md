@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "NBC: #CANCELMAILORDERFAMILY!"
-permalink: /cancelmailorderfamily/
+permalink: cancelmailorderfamily.html
 category: campaigns
 featured-image: '/static/images/featured/09-30-2016-cancel-mail-order-family.jpg'
 blurb: "Human trafficking and the exploitation of Asian women is NO joke."

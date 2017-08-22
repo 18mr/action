@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: 'Tell the Department of Justice: Protect Our Right to Vote'
-permalink: /georgia-doj/
+permalink: georgia-doj.html
 category: campaigns
 featured-image: '/static/images/featured/georgia-doj.jpg'
 blurb: 'With only hours left until Election Day, 40,000 Georgians could lose their chance to vote.'

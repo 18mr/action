@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Honor Fred Korematsu With a Google Doodle"
-permalink: /korematsudoodle/
+permalink: korematsudoodle.html
 featured-image: '/static/images/featured/korematsu.png'
 category: campaigns
 blurb: "Fred Korematsu Day is Jan. 30. Let's get Google to celebrate his legacy with us."

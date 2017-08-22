@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Congress: We support the ENCRYPT Act and digital privacy!"
-permalink: /encryptcongress/
+permalink: encryptcongress.html
 category: campaigns
 featured-image: '/static/images/featured/encryptact.png'
 blurb: "Law enforcement wants backdoor access to our devices. Help Rep. Ted Lieu make sure that doesn't happen."

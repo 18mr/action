@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "American Girl®: We want an Asian doll"
-permalink: /americangirl/
+permalink: americangirl.html
 category: campaigns
 featured-image: '/static/images/featured/american-girl.png'
 blurb: "Join these young AAPI sisters sticking up for toys that speak to Asian American girls!"

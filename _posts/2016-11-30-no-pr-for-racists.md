@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Tell the media: stop doing pr for racists"
-permalink: /noprforracists/
+permalink: noprforracists.html
 category: campaigns
 featured-image: '/static/images/featured/11-30-16-no-pr-racists.png'
 blurb: "Media outlets have covered the so-called “alt-right” without truly explaining who they really are: white nationalists and white supremacists."

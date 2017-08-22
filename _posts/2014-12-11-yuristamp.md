@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "United States Postal Service: Create a Yuri Kochiyama stamp"
-permalink: /yuristamp/
+permalink: yuristamp.html
 category: campaigns
 featured-image: '/static/images/featured/yuristamp.png'
 blurb: "Yuri Kochiyama was a civil rights hero, an Asian American icon, and a legendary letter writer."
