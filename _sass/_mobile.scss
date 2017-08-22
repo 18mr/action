@@ -1,74 +1,74 @@
 /* Small Device */
 
-@media only screen 
+@media only screen
 	and (max-width: 768px) {
-	
+
 	/* General */
-	
+
 	.wrapper {
 		width: 95%;
 	}
-	
+
 	header #logo {
 		width: 131px;
 		float: none;
 		margin: auto;
-		
+
 		hgroup {
-		
+
 			h1 {
 				display: none;
 			}
 		}
 	}
-	
+
 	nav#top-links {
-		
+
 		ul {
-		
+
 			li {
 				max-width: 100%;
 			}
 		}
 	}
-	
+
 	/* Homepage */
-	
+
 	.home {
 		width: 100%;
 		float: none;
 		margin-top: 0;
 	}
-	
+
 	.site-header {
 		height: auto;
-		
+
 		#top-links ul {
 			height: auto;
 			margin-top: 5px;
-			
+
 			li {
 				width: 100%;
 				border-right: 0;
 				border-left: 0;
 				margin-left: 0;
 				margin-top: 3px;
-				
+
 				&:first-child, &:last-child {
-					@include radius(0);
+					border-radius: 0;
 				}
-				
+
 				a {
 					width: 100%;
 				}
 			}
 		}
 	}
-	
+
 	/* Petition Page */
-	
+
 	#can_embed_form {
-		
+
 		h4 {
 			text-transform: uppercase;
 		}
@@ -88,27 +88,27 @@
 			font-size: 20px !important;
 			font-weight: 400 !important;
 			text-transform: uppercase;
-	
+
 			&:hover {
 				background-color: darken($the-pink, 25%) !important;
 			}
 		}
-	
+
 		#d_sharing {
-	
+
 			ul {
 				margin-left: 0;
 				color: $the-gray !important;
 			}
 		}
-  
+
 		#can_main_col {
 			float: none;
 			margin: auto;
 			width: 100%;
 			margin-top: 20px;
 		}
-	
+
 		#can_sidebar {
 			clear: both;
 			float: none;
@@ -116,23 +116,23 @@
 			width: 100%;
 			padding: 0;
 			background-color: lighten($the-green, 15%);
-			@include radius(10px);
-			
+			border-radius: 10px;
+
 			.action_widget {
 				padding-top: 10px;
 			}
-		
+
 			.action_sidebar {
 				padding: 0 10px 10px;
 				margin-bottom: $spacing-unit;
 			}
 		}
 	}
-	
+
 	#can_embed_form.can_thank_you_wrap.can_float {
 		padding-top: 20px;
 	}
-	
+
 	ul#footer {
 		height: auto;
 		margin-bottom: 20px;
@@ -141,7 +141,7 @@
 
 /* Medium Device */
 
-@media only screen 
+@media only screen
 	and (max-width: 992px)
 	and (min-width: 769px) {
 
