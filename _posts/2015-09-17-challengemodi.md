@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: challengemodi.html
+permalink: /challengemodi/
 title: "Challenge Modi to Take a Stand for LGBTQ Indians"
 category: campaigns
 featured-image: '/static/images/featured/challengemodi.png'

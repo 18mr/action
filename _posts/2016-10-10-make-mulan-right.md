@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Disney: #MakeMulanRight"
-permalink: makemulanright.html
+permalink: /makemulanright/
 category: campaigns
 featured-image: '/static/images/featured/10-10-2016-make-mulan-right.jpg'
 blurb: "Disney's Mulan meant the world to a generation of Asian Americans. Her live-action story deserves an Asian American writer."

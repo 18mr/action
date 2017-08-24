@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Chinese Embassy: Ban Matt Damon #BringHimHome"
-permalink: bring-him-home.html
+permalink: /bring-him-home/
 category: campaigns
 featured-image: '/static/images/featured/bring-him-home.jpg'
 blurb: "The real threat to China is white male Orientalists like Matt Damon."

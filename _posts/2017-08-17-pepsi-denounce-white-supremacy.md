@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: pepsidenouncewhitesupremacy.html
+permalink: /pepsidenouncewhitesupremacy/
 title: "Indra Nooyi #BeBolder"
 category: campaigns
 featured-image: '/static/images/featured/IndraNooyi-Large.png'

@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Don't Buy Miss Saigon"
-permalink: misssaigon.html
+permalink: /misssaigon/
 category: campaigns
 featured-image: '/static/images/featured/saigon.png'
 blurb: "Miss Saigon is selling lies about Vietnam, Asian women, and war. Don't buy it."

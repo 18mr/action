@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "County Attorney Choi: We Want #Justice4Philando"
-permalink: justice4philando.html
+permalink: /justice4philando/
 category: campaigns
 featured-image: '/static/images/featured/11-15-2016-justice4philando.jpg'
 blurb: "It's up to us to ensure Choi lives up to the responsibility of his office and prosecutes the officer who killed Philando Castile."

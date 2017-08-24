@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: savehealthcare.html
+permalink: /savehealthcare/
 title: "Tell Congress: Don't Play With Our Lives"
 category: campaigns
 featured-image: '/static/images/featured/Stop-TrumpCare.png'

@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: savetheinternet.html
+permalink: /savetheinternet/
 title: "The Internet could change forever"
 category: campaigns
 featured-image: '/static/images/featured/savetheinternet.png'

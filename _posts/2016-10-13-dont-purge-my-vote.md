@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Tell DOJ: #DontPurgeMyVote"
-permalink: dontpurgemyvote.html
+permalink: /dontpurgemyvote/
 category: campaigns
 featured-image: '/static/images/featured/10-13-2016-dont-purge-my-vote.png'
 blurb: "If you have the same first and last name as another registered voter in another state - your vote might be purged."

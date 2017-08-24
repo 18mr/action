@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "FCC: Don't Let Hollywood & Big Cable Silence Our Stories!"
-permalink: set-top-box-asian-american-representation.html
+permalink: /set-top-box-asian-american-representation/
 category: campaigns
 featured-image: '/static/images/featured/unlockthebox.jpg'
 blurb: "Asian American creatives shouldn't have to jump through industry gatekeepers' hoops to reach a general audience."

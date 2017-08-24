@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "Tell NYC Dept. of Education: We disagree with Jeena Lee-Walker's termination #TEACHTRUTH"
-permalink: jlw-doe.html
+permalink: /jlw-doe/
 category: campaigns
 featured-image: '/static/images/featured/teachtruth.png'
 blurb: "Teaching students about the wrongful conviction of five Black and Latino teens can get you fired."

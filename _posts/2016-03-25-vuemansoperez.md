@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: vue-mansoperez.html
+permalink: /vue-mansoperez/
 title: 'Investigate the killings of Phia, Mai Vue and Jesus Manso-Perez as hate crimes'
 category: campaigns
 featured-image: '/static/images/featured/vuemansoperez.png'

@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "President Obama: AAPIs Demand You #StopTheRaids"
-permalink: stop-the-raids.html
+permalink: /stop-the-raids/
 category: campaigns
 featured-image: '/static/images/featured/stoptheraids.jpg'
 blurb: "We won't let the same immigration system that marginalizes our communities deport Central American refugees."
