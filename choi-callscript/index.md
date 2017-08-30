@@ -14,11 +14,7 @@ __Here's the call script you'll hear before you connect to Ramsey County Attorne
 
 <div class="featurebox">
 <ul class="script">
-My name is ______ and I'm calling from ______.
-I'm appalled to hear that Mr. Chamroeun Phan (pronounced Chum-run Pawn) has now been detained by ICE for one whole year.
-I know that you can bring Mr. Phan home to his family by retroactively reducing his sentence by just one day.
-Please exercise the powers vested in you by the public and bring Mr. Phan home.
-Thank you.
+My name is ______ and I'm calling from ______. I'm appalled to hear that Mr. Chamroeun Phan (pronounced Chum-run Pawn) has now been detained by ICE for one whole year. I know that you can bring Mr. Phan home to his family by exercising your discretion to not oppose the motion to the judge.  Please exercise the powers vested in you by the public and bring Mr. Phan home. Thank you. 
 </ul>
 </div>
 
