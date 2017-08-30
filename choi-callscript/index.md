@@ -18,7 +18,7 @@ __Here's the call script you'll hear before you connect to Ramsey County Attorne
 
 Hello, I am calling for County Attorney John Choi.
 
-I am calling on behalf of Chamroeun Phan (pronounced Chum-run Pawn). Today, Mr. Phan’s attorney filed a Petition for Post Conviction Relief with the Ramsey County District Court. I am calling to urge Mr. Cho to do three things: (1) to allow a Judge to decide the issues raised by the Petition and to not argue that the Petition has been filed too late; (2) to promptly file an Answer to the Petition, making clear that the County Attorney agrees that the issues raised may be decided by the Judge; (3) to agree that this matter can be scheduled for a hearing at the first available date on the Court’s schedule.
+I am calling on behalf of Chamroeun Phan (pronounced Chum-run Pawn). Mr. Phan’s attorney filed a Petition for Post Conviction Relief with the Ramsey County District Court. I am calling to urge Mr. Cho to do three things: (1) to allow a Judge to decide the issues raised by the Petition and to not argue that the Petition has been filed too late; (2) to promptly file an Answer to the Petition, making clear that the County Attorney agrees that the issues raised may be decided by the Judge; (3) to agree that this matter can be scheduled for a hearing at the first available date on the Court’s schedule.
 </ul>
 </div>
 
