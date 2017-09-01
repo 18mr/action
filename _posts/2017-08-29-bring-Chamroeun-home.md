@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /bringchamroeunhome/
 title: "Ramsey County Attorney General John Choi bring Chamroeun home!"
 category: campaigns
-featured-image: '/static/images/featured/choi-mn8.png'
+featured-image: '/static/images/featured/choimn8.png'
 blurb: "No more unjust deportation and incarceration for the MN8"
 callcampaign: true
 campaignId: 19
