@@ -1,7 +1,7 @@
 ---
 layout: callscript
 title: "You're calling your Senators!"
-permalink: /savehealthcare-call-script/
+permalink: /savehealthcare-sept-call-script/
 twittertext: "Call your Senators now to %23ProtectOurCare! "
 sharelink: /savehealthcare/
 ---
