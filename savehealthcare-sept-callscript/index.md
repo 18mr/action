@@ -19,8 +19,7 @@ Here are some talking points to be sure to cover:
 - 32 million Americans would lose access to preventative care, mental and reproductive health care.
 - 14 million people will be kicked off Medicaid, and 17% of all Asian Americans and 34% of all NHPIs will lose this coverage.
 - Since passing the ACA, the uninsured rate for AAs and NHPIs has been cut by 50%
-
-- And then urge them to vote NO on Graham-Cassidy and NO on ACA repeal.
+- **And then urge them to vote NO on Graham-Cassidy and NO on ACA repeal.**
 
 Thank you for your support!
 
