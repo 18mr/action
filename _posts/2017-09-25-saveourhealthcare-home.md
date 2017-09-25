@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /saveourhealthcare/
 title: "Tell Congress: Stop playing with our Lives"
 category: campaigns
-featured-image: '/static/images/featured/healthcare-Kimmel.png'
+featured-image: '/static/images/featured/maziehirono.png'
 blurb: "Healthcare is a Human Right. Vote NO on Graham-Cassidy!"
 callcampaign: true
 campaignId: 18
