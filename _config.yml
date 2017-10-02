@@ -4,7 +4,7 @@ email: info@18mr.org
 description: > # this means to ignore newlines until "baseurl:"
   Activating Asian America
 baseurl: "" 
-url: "http://action.18mr.org" # the base hostname & protocol for your site
+url: "https://action.18mr.org" # the base hostname & protocol for your site
 twitter_username: 18millionrising
 github_username: 18mr
 github_projectname: action

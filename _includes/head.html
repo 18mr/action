@@ -35,7 +35,7 @@
 	{% endif %}
 
 	{% if page.featured-image %}
-		<meta content="http://action.18mr.org/{{ page.featured-image }}" property="og:image">
+		<meta content="{{ site.url }}{{ page.featured-image }}" property="og:image">
 	{% else %}
 		<meta content="/static/images/site-logo.png" property="og:image">
 	{% endif %}

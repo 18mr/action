@@ -26,16 +26,16 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$the-pink: #ea2485;
-$the-green:       #8bc63e;
-$the-blue:        #2b99c1;
-$the-yellow:      #ebdd14;
-$the-beige:		  #f1e5c6;
-$the-gray:		  #221e20;
-$the-light-beige: lighten($the-beige, 25%);
+$the-pink:         #ea2485;
+$the-green:        #8bc63e;
+$the-blue:         #2b99c1;
+$the-yellow:       #ebdd14;
+$the-beige:        #f1e5c6;
+$the-gray:         #221e20;
+$the-light-beige:  lighten($the-beige, 25%);
 
-$small:          768px;
-$medium:         992px;
+$small:            768px;
+$medium:           992px;
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -45,52 +45,22 @@ $medium:         992px;
 //     }
 // }
 @mixin media-query($device) {
-    @media only screen and (max-width: $device) {
-        @content;
-    }
-}
-
-// Fade mixin
-@mixin fade-transition($fvars...) {
-  -webkit-transition: $fvars;
-  -moz-transition: $fvars;
-  -ms-transition: $fvars;
-  -o-transition: $fvars;
-  transition: $fvars;
-}
-
-// Border radius mixin
-@mixin radius($radius...) {
-  -webkit-border-radius: $radius;
-  -moz-border-radius: $radius;
-  border-radius: $radius;
-}
-
-// Box sizing mixin
-@mixin bsizing($box) {
-  -webkit-box-sizing: $box;
-  -moz-box-sizing: $box;
-  box-sizing: $box;
-}
-
-// Box shadow mixin
-@mixin bshadow($svars...) {
-  -webkit-box-shadow: $svars;
-  -moz-box-shadow: $svars;
-  box-shadow: $svars;
+	@media only screen and (max-width: $device) {
+		@content;
+	}
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting",
-		"header",
-		"sidebar",
-		"default",
-		"an",
-		"grid",
-		"pagination",
-		"mobile",
-		"share"
+	"base",
+	"layout",
+	"syntax-highlighting",
+	"header",
+	"sidebar",
+	"default",
+	"an",
+	"grid",
+	"pagination",
+	"mobile",
+	"share"
 ;
