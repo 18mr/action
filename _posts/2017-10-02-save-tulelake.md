@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /savetulelake/
 title: "Tell Modoc County: Save Tule Lake"
 category: campaigns
-featured-image: '/static/images/featured/savetulelake.png'
+featured-image: '/static/images/featured/savetulelakefinal.png'
 blurb: "It’s time for Modoc County to stand on the right side of history and #SaveTuleLake"
 ---
 
