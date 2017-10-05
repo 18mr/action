@@ -17,7 +17,6 @@ Here are some talking points to be sure to cover:
 - It would be morally reprehensible for Congress to include enforcement measures in the DREAM Act because this effectively asks DACA recipients to choose themselves over their parents, tearing their families apart.
 - We cannot allow DACA recipients to be bargaining chips for Trump to build his wall and terrorize border communities.
 - DACA recipients have followed the steps the government has outlined for them. Now it’s time for the government to seek a permanent fix to help Dreamers stay in the country they grew up calling home.
-
 - **And then urge them to vote for a clean DREAM Act.**
 
 Thank you for your support!
