@@ -4,7 +4,7 @@ permalink: /cleandreamact/
 title: "Tell Congress: It's time to pass a clean DREAM Act"
 category: campaigns
 featured-image: '/static/images/featured/cleandream.png'
-blurb: "Congress made a promise to Dreamers. It's high time they fulfill it.
+blurb: "Congress made a promise to Dreamers. It's high time they fulfill it."
 callcampaign: true
 campaignId: 22
 ---
