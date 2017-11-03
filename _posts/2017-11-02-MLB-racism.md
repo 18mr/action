@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /stopMLBracism/
 title: "Tell the MLB: Meet with AAPI Leaders to prevent racism"
 category: campaigns
-featured-image:
+featured-image: '/static/images/featured/mlbracism.png'
 blurb: "The MLB must ensure that players and fans from all communities are treated with respect"
 ---
 
