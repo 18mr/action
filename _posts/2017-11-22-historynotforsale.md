@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /historynotforsale/
 title: "Tell Amazon & Ebay: Japanese American incarceration isn't home decor"
 category: campaigns
-featured-image:
+featured-image: /static/images/featured/2017-11-24-historynotforsale.png
 blurb: "Marketing prints of civil rights atrocities as home decor is desecration. "
 ---
 
