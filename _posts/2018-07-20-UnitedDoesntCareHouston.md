@@ -3,7 +3,7 @@ layout: petition-page
 title: "No public subsidies for United Airlines in Houston without a fair wage!"
 permalink: "/UnitedDoesntCareHouston"
 category: campaigns
-featured-image: '/static/images/featured/UDC_v3.png'
+featured-image: '/static/images/featured/UDC_2_AN.jpg'
 blurb: "United Airlines catering employees at IAH are stuck in poverty while United Airlines receives hundreds of millions of dollars in public subsidies"
 description: "United Airlines has received hundreds of millions of dollars in public subsidies from the City of Houston in recent years. Meanwhile, United Airlines catering employees at IAH are stuck in poverty."
 ---
