@@ -9,4 +9,15 @@ description: "We value you -  your voice as an activist, community member and vo
 ---
 <link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' />
 <script src='https://actionnetwork.org/widgets/v3/form/how-are-you-voting-18mr-activist-survey?format=js&source=widget&style=full'>
-</script><div id='can-form-area-how-are-you-voting-18mr-activist-survey' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+</script><div id='can-form-area-how-are-you-voting-18mr-activist-survey' style='width: 100%'><!-- this div is the target for our HTML insertion 
+-->
+	
+</div>
+<script>
+    $(document).ready(function() {
+        $('#can-form-area-how-are-you-voting-18mr-activist-survey').on('can_embed_loaded', function() {
+            document.getElementsByName("commit")[0].value = "Submit";
+            $(".action_sidebar h4").position("fluid");
+        });
+    });
+</script>
