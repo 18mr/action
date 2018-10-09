@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 title: "NEVER AGAIN IS NOW: Tell DHS No Concentration Camps for Migrant Kids!"
-permalink: "/NeverAgain"
+permalink: "/neveragain"
 category: campaigns
 featured-image: '/static/images/featured/2018-neveragain.png'
 blurb: "Nearly 13,000 children are already being held in immigration custody, including isolated prison camps and “tent cities”."
