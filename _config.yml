@@ -16,5 +16,5 @@ markdown: kramdown
 permalink: title
 paginate: 9
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 exclude: [s3_website.yml]
