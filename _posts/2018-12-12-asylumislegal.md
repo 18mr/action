@@ -1,6 +1,6 @@
 ---
 layout: petition-page
-permalink: /asylumislegal
+permalink: /asylumislegal/
 title: "Tell Trump: Stop punishing refugees fleeing for their lives"
 category: campaigns
 featured-image: /static/images/featured/2018-12-12-asylumislegal.png
