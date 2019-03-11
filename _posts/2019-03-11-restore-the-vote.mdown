@@ -1,0 +1,12 @@
+---
+layout: petition-page
+permalink: /restorethevote/
+title: "Tell Congress: #RestoreTheVote and our Voting Rights"
+category: campaigns
+featured-image: /static/images/featured/restorethevote.png
+blurb: "Asian Americans are SIX TIMES more likely to get kicked off the voter rolls. It’s time to restore the Voting Rights Act"
+tweet: "Asian%20Americans%20are%20SIX%20TIMES%20more%20likely%20to%20get%20kicked%20off%20the%20voter%20rolls%20than%20white%20voters%20because%20of%20our%20names.%20This%20is%20why%20I%20signed%20to%20%23RestoreTheVote%20with%20%4018millionrising%20http%3A%2F%2Faction.18mr.org%2Frestorethevote%2F"
+facebook: "Asian%20American%20Voting%20Rights%20are%20under%20attack.%20Asian%20Americans%20are%20SIX%20TIMES%20more%20likely%20to%20get%20kicked%20off%20the%20voter%20rolls%20than%20white%20voters%20because%20of%20our%20names.%20This%20is%20why%20we%20need%20to%20restore%20the%20Voting%20Rights%20Act%20before%202020.%20%23RestoreTheVote%20http%3A%2F%2Faction.18mr.org%2Frestorethevote%2F"
+
+---
+<link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/petition/sign-to-support-restoring-the-voting-rights-act?format=js&source=widget&style=full'></script><div id='can-petition-area-sign-to-support-restoring-the-voting-rights-act' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
