@@ -3,7 +3,7 @@ layout: petition-page
 permalink: /adopteecitizenshipnow/
 title: "Citizenship for Adoptees Now!"
 category: campaigns
-featured-image: '/static/images/featured/adoptees an .jpg'
+featured-image: '/static/images/featured/adoptees_an.jpg'
 blurb: "Stop deporting adoptees. Pass the Adoptee Citizenship Act of 2019"
 ---
 
