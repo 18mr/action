@@ -1,7 +1,7 @@
 ---
 layout: petition-page
 permalink: /thepeoplefirst/
-title: "U.S. Senate: Fund Vote By Mail"
+title: "The People First: WI Black & Brown COVID-19 Demands"
 category: campaigns
 featured-image: '/static/images/featured/The people first.png'
 blurb: "The People First: WI Black & Brown COVID-19 Demands"
