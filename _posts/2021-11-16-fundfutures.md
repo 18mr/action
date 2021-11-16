@@ -71,7 +71,6 @@ Many of our elders had to take risks to survive and radically change their condi
 
 <b> Your coin funds Asian America’s community power, resilience, and futures. Here’s a look at what you made possible this year. </b>
 
-
 - You mobilized over $1,000 for community-led safety initiatives in Oakland Chinatown following a series of racialized attacks on Asian elders
 
 - 5,500 of you rose up for Lam Hong Le, a Vietnamese essential worker, artist and beloved community member facing deportation
