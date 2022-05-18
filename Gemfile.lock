@@ -112,19 +112,21 @@ GEM
       nokogiri (>= 1.5.9)
     mercenary (0.3.6)
     method_source (0.8.2)
-    mini_portile2 (2.2.0)
+    mini_portile2 (2.8.0)
     minitest (5.10.2)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.8.0)
-      mini_portile2 (~> 2.2.0)
-    nokogiri (1.8.0-x64-mingw32)
-      mini_portile2 (~> 2.2.0)
-    nokogiri (1.8.0-x86-mingw32)
-      mini_portile2 (~> 2.2.0)
+    nokogiri (1.13.6)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    nokogiri (1.13.6-x64-mingw32)
+      racc (~> 1.4)
+    nokogiri (1.13.6-x86-mingw32)
+      racc (~> 1.4)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     public_suffix (1.5.3)
+    racc (1.6.0)
     rack (2.0.3)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -172,7 +174,6 @@ GEM
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
     unicode-display_width (1.2.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -184,7 +185,6 @@ DEPENDENCIES
   github-pages
   jekyll-paginate
   sass-rails (>= 3.2)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.17.3
